@@ -8,20 +8,33 @@
 
 /* Begin PBXBuildFile section */
 		1B62199F20613C0F00C0D816 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B62199E20613C0F00C0D816 /* AppDelegate.swift */; };
-		1B6219A120613C0F00C0D816 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B6219A020613C0F00C0D816 /* ViewController.swift */; };
 		1B6219A420613C0F00C0D816 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B6219A220613C0F00C0D816 /* Main.storyboard */; };
 		1B6219A620613C0F00C0D816 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B6219A520613C0F00C0D816 /* Assets.xcassets */; };
 		1B6219A920613C0F00C0D816 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B6219A720613C0F00C0D816 /* LaunchScreen.storyboard */; };
+		1B6219B12061A70F00C0D816 /* LunchTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B6219B02061A70F00C0D816 /* LunchTableViewCell.swift */; };
+		1B6219B32061A78900C0D816 /* LunchMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B6219B22061A78900C0D816 /* LunchMenuViewController.swift */; };
+		1B6219B52061AA7100C0D816 /* PopoverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B6219B42061AA7100C0D816 /* PopoverViewController.swift */; };
+		1BABE5C02063BCF900D398F1 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1BABE5BF2063BC9E00D398F1 /* GoogleService-Info.plist */; };
+		1BABE5C22063FD7000D398F1 /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BABE5C12063FD7000D398F1 /* SignupViewController.swift */; };
+		CED01A0A08D50B3CC369ED4A /* Pods_FonkLunchTimeMenu.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 62CDE8B96D7DB6D7F1A811CC /* Pods_FonkLunchTimeMenu.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		04B95AD90A4C22045EBD7C19 /* Pods-FonkLunchTimeMenu.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FonkLunchTimeMenu.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FonkLunchTimeMenu/Pods-FonkLunchTimeMenu.debug.xcconfig"; sourceTree = "<group>"; };
 		1B62199B20613C0F00C0D816 /* FonkLunchTimeMenu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FonkLunchTimeMenu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B62199E20613C0F00C0D816 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		1B6219A020613C0F00C0D816 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1B6219A320613C0F00C0D816 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1B6219A520613C0F00C0D816 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1B6219A820613C0F00C0D816 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1B6219AA20613C0F00C0D816 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1B6219B02061A70F00C0D816 /* LunchTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LunchTableViewCell.swift; sourceTree = "<group>"; };
+		1B6219B22061A78900C0D816 /* LunchMenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LunchMenuViewController.swift; sourceTree = "<group>"; };
+		1B6219B42061AA7100C0D816 /* PopoverViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverViewController.swift; sourceTree = "<group>"; };
+		1BABE5BA2063B9BD00D398F1 /* FonkLunchTimeMenu-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FonkLunchTimeMenu-Bridging-Header.h"; sourceTree = "<group>"; };
+		1BABE5BF2063BC9E00D398F1 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		1BABE5C12063FD7000D398F1 /* SignupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
+		62CDE8B96D7DB6D7F1A811CC /* Pods_FonkLunchTimeMenu.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FonkLunchTimeMenu.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BE83FCBBF36A6124C5458045 /* Pods-FonkLunchTimeMenu.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FonkLunchTimeMenu.release.xcconfig"; path = "Pods/Target Support Files/Pods-FonkLunchTimeMenu/Pods-FonkLunchTimeMenu.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +42,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CED01A0A08D50B3CC369ED4A /* Pods_FonkLunchTimeMenu.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +54,8 @@
 			children = (
 				1B62199D20613C0F00C0D816 /* FonkLunchTimeMenu */,
 				1B62199C20613C0F00C0D816 /* Products */,
+				F942A9A852E242297359B158 /* Pods */,
+				E2ACC01D7D436FC538802CE9 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -55,13 +71,35 @@
 			isa = PBXGroup;
 			children = (
 				1B62199E20613C0F00C0D816 /* AppDelegate.swift */,
-				1B6219A020613C0F00C0D816 /* ViewController.swift */,
+				1BABE5C12063FD7000D398F1 /* SignupViewController.swift */,
 				1B6219A220613C0F00C0D816 /* Main.storyboard */,
 				1B6219A520613C0F00C0D816 /* Assets.xcassets */,
+				1B6219B02061A70F00C0D816 /* LunchTableViewCell.swift */,
+				1B6219B22061A78900C0D816 /* LunchMenuViewController.swift */,
+				1BABE5BF2063BC9E00D398F1 /* GoogleService-Info.plist */,
+				1B6219B42061AA7100C0D816 /* PopoverViewController.swift */,
 				1B6219A720613C0F00C0D816 /* LaunchScreen.storyboard */,
 				1B6219AA20613C0F00C0D816 /* Info.plist */,
+				1BABE5BA2063B9BD00D398F1 /* FonkLunchTimeMenu-Bridging-Header.h */,
 			);
 			path = FonkLunchTimeMenu;
+			sourceTree = "<group>";
+		};
+		E2ACC01D7D436FC538802CE9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				62CDE8B96D7DB6D7F1A811CC /* Pods_FonkLunchTimeMenu.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F942A9A852E242297359B158 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				04B95AD90A4C22045EBD7C19 /* Pods-FonkLunchTimeMenu.debug.xcconfig */,
+				BE83FCBBF36A6124C5458045 /* Pods-FonkLunchTimeMenu.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +109,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1B6219AD20613C0F00C0D816 /* Build configuration list for PBXNativeTarget "FonkLunchTimeMenu" */;
 			buildPhases = (
+				9098F50AD4B465BA6E78716D /* [CP] Check Pods Manifest.lock */,
 				1B62199720613C0F00C0D816 /* Sources */,
 				1B62199820613C0F00C0D816 /* Frameworks */,
 				1B62199920613C0F00C0D816 /* Resources */,
+				19959A912965B71F56651604 /* [CP] Embed Pods Frameworks */,
+				004AC31F0A400A26EB9AA669 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -96,6 +137,7 @@
 				TargetAttributes = {
 					1B62199A20613C0F00C0D816 = {
 						CreatedOnToolsVersion = 9.0;
+						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -124,6 +166,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1B6219A920613C0F00C0D816 /* LaunchScreen.storyboard in Resources */,
+				1BABE5C02063BCF900D398F1 /* GoogleService-Info.plist in Resources */,
 				1B6219A620613C0F00C0D816 /* Assets.xcassets in Resources */,
 				1B6219A420613C0F00C0D816 /* Main.storyboard in Resources */,
 			);
@@ -131,12 +174,77 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		004AC31F0A400A26EB9AA669 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FonkLunchTimeMenu/Pods-FonkLunchTimeMenu-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		19959A912965B71F56651604 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-FonkLunchTimeMenu/Pods-FonkLunchTimeMenu-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework",
+				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDWebImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FonkLunchTimeMenu/Pods-FonkLunchTimeMenu-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9098F50AD4B465BA6E78716D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FonkLunchTimeMenu-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		1B62199720613C0F00C0D816 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1B6219A120613C0F00C0D816 /* ViewController.swift in Sources */,
+				1BABE5C22063FD7000D398F1 /* SignupViewController.swift in Sources */,
+				1B6219B12061A70F00C0D816 /* LunchTableViewCell.swift in Sources */,
+				1B6219B52061AA7100C0D816 /* PopoverViewController.swift in Sources */,
+				1B6219B32061A78900C0D816 /* LunchMenuViewController.swift in Sources */,
 				1B62199F20613C0F00C0D816 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -272,14 +380,18 @@
 		};
 		1B6219AE20613C0F00C0D816 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 04B95AD90A4C22045EBD7C19 /* Pods-FonkLunchTimeMenu.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5G3E4G5D62;
 				INFOPLIST_FILE = FonkLunchTimeMenu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Appulse.FonkLunchTimeMenu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "FonkLunchTimeMenu/FonkLunchTimeMenu-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -287,14 +399,17 @@
 		};
 		1B6219AF20613C0F00C0D816 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BE83FCBBF36A6124C5458045 /* Pods-FonkLunchTimeMenu.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5G3E4G5D62;
 				INFOPLIST_FILE = FonkLunchTimeMenu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Appulse.FonkLunchTimeMenu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "FonkLunchTimeMenu/FonkLunchTimeMenu-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
