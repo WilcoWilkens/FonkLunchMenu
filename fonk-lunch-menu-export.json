@@ -1,0 +1,39 @@
+{
+  "Lunch Menu" : {
+    "1Monday" : {
+      "description" : "The sea is lapping just by your feet, a warm breeze whips the tablecloth around your legs and a steamy pan of paella sits in front of you. Shrimp, lobster, mussels and cuttlefish combine with white rice and various herbs, oil and salt in this Valencian dish to send you immediately into holiday mode. Though if you have it in Spain, you're probably there already.",
+      "imageUrl" : "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170206165040-dubai-michelin-dining-boca.jpg",
+      "name" : "Seafood paella"
+    },
+    "2Tuesday" : {
+      "description" : "A fresh, handmade tortilla stuffed with small chunks of grilled beef rubbed in oil and sea salt then covered with guacamole, salsa, onions, cilantro or anything else you want -- perfect for breakfast, lunch or dinner. This is the reason no visitor leaves Mexico weighing less than when they arrived.",
+      "imageUrl" : "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F161214142856-mexico-city-navarte-tacos-mg-1938.jpg",
+      "name" : "Tacos"
+    },
+    "3Wednesday" : {
+      "description" : "Anything that's been around since the 1860s can't be doing much wrong. The staple of the Victorian British working class is a crunchy-outside, soft-inside dish of simple, un-adorned fundamentals.",
+      "imageUrl" : "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170124150418-18---fish-and-chips.jpg",
+      "name" : "Fish 'n' chips"
+    },
+    "4Thursday" : {
+      "description" : "This snack made from pork, shrimp, herbs, rice vermicelli and other ingredients wrapped in rice paper is served at room temperature. It's \"meat light,\" with the flavors of refreshing herbs erupting in your mouth. Dipped in a slightly sweet Vietnamese sauce laced with ground peanuts, it's wholesome, easy and the very definition of \"moreish.\"\"",
+      "imageUrl" : "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170306134418-goi-cuon.jpg",
+      "name" : "Goi cuon (summer roll)"
+    },
+    "5Friday" : {
+      "description" : "\"This assembly kit of a dining experience is a thrill to DIY enthusiasts everywhere. Step 1: Behold the meat sizzling on a fiery griddle. Step 2: Along with the meat, throw side servings of capsicum, onion, guacamole, sour cream and salsa into a warm, flour tortilla. Step 3: Promise all within hearing range that you'll have \\\"just one more.\\\" Step 4: Repeat.\\\"",
+      "imageUrl" : "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170203151539-fajitas.jpg",
+      "name" : "Fajitas"
+    },
+    "6Saturday" : {
+      "description" : "These all-American fried wheels of dough need no introduction, but we will say one thing: the delicious guilt of snacking on these addictive calorie bombs makes them taste even better. If that's possible.",
+      "imageUrl" : "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170228165934-donuts.jpg",
+      "name" : "Donuts"
+    },
+    "7Sunday" : {
+      "description" : "When Japan wants to build something right, it builds it really right. Brand giants such as Toyota, Nintendo, Sony, Nikon and Yamaha may have been created by people fueled by nothing more complicated than raw fish and rice, but it's how the fish and rice is put together that makes this a global first-date favorite. The Japanese don't live practically forever for no reason -- they want to keep eating this stuff.",
+      "imageUrl" : "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170125164410-sushiraw.jpg",
+      "name" : "Sushi"
+    }
+  }
+}
